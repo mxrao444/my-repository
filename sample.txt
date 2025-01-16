@@ -1,0 +1,1 @@
+This is a test file to check if kore github connector is able to load this file.
